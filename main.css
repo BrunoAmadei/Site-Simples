@@ -36,5 +36,5 @@ li.list{
 
 .dark-theme{
     --bg: var(--black);
-    --font-color: var(var(--green));
-}
+    --font-color: var(--green);
+}   
